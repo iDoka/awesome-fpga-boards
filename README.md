@@ -2,9 +2,14 @@
 
 List of Repurposed FPGA boards which getting Second life in DYI or Hobby projects
 
+<!--
+* https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards
+* https://github.com/kelu124/awesome-latticeFPGAs
+* https://hackaday.io/project/159853-fpga-board-hack
+-->
 
-// https://joelw.id.au/FPGA/CheapFPGADevelopmentBoards
-// https://github.com/kelu124/awesome-latticeFPGAs
+URL: https://github.com/iDoka/awesome-fpga-boards
+
 
 ## ToC
 
@@ -27,7 +32,6 @@ todo
   * [Colorlight 5A-75E V7.1 Hardware](https://github.com/q3k/chubby75/blob/master/5a-75e/hardware_V7.1.md)
   * [Linsn RV901T HUB75](https://github.com/q3k/chubby75/tree/master/rv901t)
 * [ColorLight 5A-75B](https://github.com/enjoy-digital/colorlite)
-* [Colorlight i5](https://github.com/wuxx/Colorlight-FPGA-Projects)
 * [Notes for Colorlight-5A-75B](https://github.com/kholia/Colorlight-5A-75B)
 * [Collection of tools made while messing with the Colorlight 5A-75B V7.0](https://github.com/kittennbfive/5A-75B-tools)
 * [Collection of resources on the Colorlight FPGA boards](https://github.com/TomKeddie/prj-colorlight-fpga/wiki)
@@ -36,9 +40,13 @@ todo
 
 ![Colorlight 5A-75B](img/Colorlight-5A-75B.jpg)
 
-![Colorlight i5](img/Colorlight-i5.jpg)
-
 ![Linsn RV901T](img/RV901T.jpg)
+
+
+
+* [Colorlight i5](https://github.com/wuxx/Colorlight-FPGA-Projects)
+
+![Colorlight i5](img/Colorlight-i5.jpg)
 
 
 
@@ -93,8 +101,12 @@ todo
 
 ## unsorted
 
-* https://hackaday.io/project/159853-fpga-board-hack
+none
 
+
+## etc
+
+Follow this root-repo for lastest updates: https://github.com/iDoka/awesome-fpga-boards
 
 
 ## Tags
