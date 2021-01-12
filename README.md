@@ -53,6 +53,7 @@ todo
 ## Elgato CameraLink 4K
 
 * [LiTex on Elgato CameraLink 4K](https://github.com/enjoy-digital/camlink_4k)
+* [Elgato Camlink Reverse Engineering Tools](https://github.com/ktemkin/camlink-re)
 
 ![Elgato CameraLink 4K](img/Elgato-CameraLink-4K.jpg)
 
